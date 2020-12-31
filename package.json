@@ -1,0 +1,19 @@
+{
+  "name": "todoist_clone",
+  "version": "1.0.0",
+  "description": "this is an organizational website that is meant to do good stuff, yeh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Photonicnova101/Todoist_clone.git"
+  },
+  "author": "Samgar Aidarhanov Pautrat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Photonicnova101/Todoist_clone/issues"
+  },
+  "homepage": "https://github.com/Photonicnova101/Todoist_clone#readme"
+}
